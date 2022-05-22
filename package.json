@@ -1,0 +1,19 @@
+{
+  "name": "emergency_compliment",
+  "version": "1.0.0",
+  "description": "For tonight's homework, you will be creating a very simplified version of [Emergency Compliment](http://emergencycompliment.com/), except making the compliments SEI-themed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "hbs": "^4.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
